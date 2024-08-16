@@ -278,6 +278,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     telegramChannelBtn.addEventListener('click', () => {
-        window.open('https://telegram.me/onlyxcoding', '_blank');
+        window.open('https://telegram.me/Reaperzclub', '_blank');
     });
 });
